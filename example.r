@@ -135,7 +135,7 @@ fc<-forecast(fit_disfircasi,xreg = disfircasi2)
 autoplot(fc)
 
 ggplot(filtered_data,aes(x=filtered_data$dates,y=filtered_data$sold_count))+geom_point()
-
+#mrb zynp
 
 predictions=unique(data[,list(product_content_id)])
 predictions[,forecast:=2.3]
