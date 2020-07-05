@@ -1,6 +1,6 @@
 ## Welcome to Furkan Efe's GitHub page
 
-### HW0
+### Term Project
 
-[Here] (/Users/furkanefe/Desktop/IE360/Github/spring20-furkan-efe/hw0/HW0.html) is the HW0 answers.
+[Here] (Report.html) is our Term Project Report.
 
