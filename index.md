@@ -3,6 +3,6 @@
 ### Term Project
 
 
-[Here] (files/Report.html) is our Term Project Report.
+[Here] (https://github.com/BU-IE-360/spring20-furkan-efe.git/files/Report.html) is our Term Project Report.
 
 
