@@ -2,5 +2,5 @@
 
 ### Term Project
 
-[Here] (http://Users/furkanefe/Desktop/IE360/Github/spring20-furkan-efe/Report.html) is the Term Project report.
+[Here] (https://github.com/BU-IE-360/spring20-furkan-efe/blob/master/Report.html) is the Term Project report.
 
